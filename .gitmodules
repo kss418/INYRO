@@ -2,3 +2,7 @@
 	path = Soomoong_Cup/25-1
 	url = https://github.com/soomoongcup25-1/soomoongcup-2025-1
 	branch = main
+[submodule "Soomoong_Cup/24-2"]
+	path = Soomoong_Cup/24-2
+	url = https://github.com/soomoongcup/soomoongcup-2024-2
+	branch = main
